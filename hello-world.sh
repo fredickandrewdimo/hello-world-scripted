@@ -1,1 +1,1 @@
-echo "Hello World Application CI/CD"
+echo "Hello World Application CI/CD!"
